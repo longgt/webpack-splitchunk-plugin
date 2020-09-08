@@ -1,0 +1,15 @@
+{
+  "name": "webpack-split-chunk-plugin",
+  "author": "longgt",
+  "license": "MIT",  
+  "version": "0.1.0",
+  "description": "SplitChunkPlugin for Webpack 3",
+  "scripts": {
+    "dist": "npm pack"
+  },
+  "files": [
+    "index.js",
+    "lib/",
+    "README.md"
+  ]
+}
